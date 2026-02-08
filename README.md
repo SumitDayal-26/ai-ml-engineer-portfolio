@@ -20,9 +20,9 @@ This repository contains applied Machine Learning and Deep Learning projects foc
 ## Projects
 | Project | Domain | Description | Status |
 |-------|--------|-------------|--------|
-| Student Management System | Python | CLI-based application using OOP concepts | Completed |
-| Data Analysis Dashboard | Data Analysis | Exploratory data analysis and visualization on real datasets | Completed |
-| House Price Prediction | Machine Learning | Regression-based model for real estate price estimation | In Progress |
+| Student Management System | Python | CLI-based application using OOP concepts | Planned |
+| Data Analysis Dashboard | Data Analysis | Exploratory data analysis and visualization on real datasets | Planned |
+| House Price Prediction | Machine Learning | Regression-based model for real estate price estimation | Planned |
 | Customer Churn Prediction | Machine Learning | Classification model to predict customer retention | Planned |
 | Image Classification | Deep Learning | CNN-based image classification system | Planned |
 | Sentiment Analysis | NLP | Text classification model for sentiment detection | Planned |
